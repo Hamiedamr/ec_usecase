@@ -1,0 +1,698 @@
+City,Car_Per_City
+Seattle,26932
+Bellevue,8076
+Redmond,5796
+Vancouver,5599
+Bothell,5176
+Kirkland,4859
+Sammamish,4657
+Renton,4366
+Olympia,3848
+Tacoma,3333
+Bellingham,2666
+Issaquah,2503
+Kent,2468
+Lynnwood,2401
+Spokane,2368
+Tukwila,2268
+Everett,2182
+Mercer Island,2155
+Woodinville,2126
+Snohomish,1872
+Gig Harbor,1762
+Shoreline,1738
+Auburn,1706
+Edmonds,1682
+Bainbridge Island,1628
+Camas,1435
+Seatac,1348
+Federal Way,1286
+Maple Valley,1238
+Lake Stevens,1151
+Puyallup,1141
+Bremerton,1115
+Marysville,1053
+Kenmore,940
+Port Orchard,931
+Bonney Lake,871
+Ridgefield,842
+Richland,831
+Lacey,831
+Newcastle,826
+Kennewick,795
+Burien,785
+Snoqualmie,767
+Mukilteo,702
+Lakewood,689
+Monroe,687
+North Bend,672
+Lake Forest Park,641
+University Place,633
+Anacortes,633
+Poulsbo,628
+Spokane Valley,612
+Mill Creek,609
+Yakima,589
+Mount Vernon,573
+Port Townsend,573
+Vashon,572
+Sequim,554
+Tumwater,552
+Duvall,543
+Washougal,520
+Arlington,508
+Pasco,506
+Battle Ground,505
+South Hill,498
+Covington,493
+Des Moines,449
+Camano Island,425
+Oak Harbor,424
+Friday Harbor,413
+Mountlake Terrace,404
+Port Angeles,395
+Stanwood,382
+Blaine,365
+Shelton,363
+Wenatchee,360
+Black Diamond,354
+Spanaway,350
+Ferndale,323
+Carnation,320
+Longview,316
+Walla Walla,313
+Medina,311
+Silverdale,307
+Clyde Hill,304
+Enumclaw,303
+Lake Tapps,303
+Graham,284
+Moses Lake,266
+Eastsound,263
+Edgewood,261
+Normandy Park,255
+Brush Prairie,255
+Ellensburg,253
+East Wenatchee,247
+Kingston,244
+Centralia,244
+Langley,236
+Yelm,228
+Pullman,225
+Leavenworth,224
+Fall City,212
+Buckley,211
+Coupeville,204
+Lynden,201
+Clinton,200
+Brier,200
+West Richland,198
+Liberty Lake,195
+Chehalis,194
+Cle Elum,190
+Dupont,177
+Sedro-Woolley,177
+Fox Island,174
+Freeland,172
+La Center,168
+Sumner,159
+Steilacoom,157
+Orting,152
+Woodland,150
+Chelan,148
+Burlington,145
+Belfair,143
+Sultan,142
+Kelso,142
+Aberdeen,142
+Cheney,137
+Granite Falls,136
+Yarrow Point,135
+Fife,133
+Port Ludlow,132
+Ocean Shores,128
+Greenacres,125
+White Salmon,125
+Roy,122
+Eatonville,118
+Fircrest,118
+Lopez Island,118
+Nine Mile Falls,110
+Rochester,107
+Kalama,103
+Bow,98
+Colbert,97
+Lakebay,93
+Quincy,92
+Olalla,90
+La Conner,87
+Joint Base Lewis Mcchord,86
+Milton,85
+Selah,83
+Tenino,82
+Woodway,81
+Everson,78
+Ravensdale,78
+Seabeck,76
+Parkland,74
+Montesano,70
+Winthrop,70
+Pacific,68
+Suquamish,66
+Deer Park,66
+Castle Rock,65
+Hansville,65
+Cashmere,64
+Manson,64
+Allyn,63
+Greenbank,60
+Mead,59
+Grapeview,58
+Indianola,57
+Medical Lake,57
+Gold Bar,57
+Elma,56
+Clarkston,56
+Benton City,56
+Prosser,56
+Veradale,55
+Rainier,54
+Winlock,54
+Ephrata,54
+Orondo,53
+Point Roberts,52
+College Place,51
+Hoquiam,51
+Sedro Woolley,51
+Stevenson,50
+Colville,50
+Hunts Point,49
+Beaux Arts,49
+Sunnyside,47
+Port Hadlock,46
+Nordland,46
+Quilcene,45
+Hoodsport,43
+Yacolt,43
+Twisp,41
+Long Beach,40
+Cathlamet,40
+Newman Lake,38
+Olga,38
+Newport,38
+Lummi Island,37
+Otis Orchards,37
+Union,35
+Othello,35
+Ruston,35
+Algona,33
+Anderson Island,33
+Chattaroy,32
+Ronald,32
+Mccleary,30
+Ocean Park,30
+Silverlake,29
+Zillah,29
+Chimacum,29
+Goldendale,29
+Concrete,28
+Toledo,28
+Moxee,28
+Snoqualmie Pass,28
+Underwood,27
+Elk,27
+Preston,27
+Raymond,26
+Mossyrock,26
+Onalaska,25
+Airway Heights,25
+Kettle Falls,25
+Mattawa,24
+Lyle,24
+Malaga,24
+Deming,24
+Custer,23
+Maple Falls,23
+Entiat,22
+Trout Lake,21
+Surfside,21
+Pacific Beach,21
+Mazama,21
+Brinnon,21
+Naches,21
+Vaughn,21
+Tahuya,20
+Colfax,20
+Grandview,20
+Westport,20
+Amboy,20
+Chewelah,20
+Peshastin,19
+Omak,19
+Roslyn,18
+Carson,18
+Oakville,18
+Ritzville,17
+Tonasket,17
+Royal City,17
+Ariel,17
+Husum,17
+Palouse,16
+Oroville,16
+Ilwaco,16
+Valleyford,16
+Easton,16
+Brewster,15
+Longbranch,15
+Loon Lake,15
+Soap Lake,15
+Naselle,15
+Shaw Island,15
+Dayton,14
+San Diego,14
+Forks,14
+Morton,13
+Glacier,13
+Coulee City,12
+Spangle,12
+Cosmopolis,12
+Toppenish,12
+Packwood,12
+Waitsburg,11
+Ashford,11
+Burbank,11
+Snowden,11
+Lilliwaup,10
+Sumas,10
+Orcas Is,10
+Asotin,10
+Darrington,10
+Fairchild Air Force Base,10
+Mabton,10
+North Bonneville,10
+Davenport,10
+Acme,9
+Silver Creek,9
+Mineral,9
+Wapato,9
+Rock Island,9
+Rosalia,9
+Outlook,8
+Skykomish,8
+North Cove,8
+Tieton,8
+Neah Bay,8
+Connell,8
+Grayland,8
+Seaview,8
+Kittitas,7
+Alexandria,7
+Curlew,7
+Nooksack,7
+Dallesport,7
+Keyport,7
+Reardan,7
+Valley,7
+Union Gap,7
+Oysterville,7
+Republic,7
+Vader,7
+Bingen,6
+Pateros,6
+Eltopia,6
+Menlo,6
+Rice,6
+Carlton,6
+Ethel,6
+Virginia Beach,6
+Bz Corner,6
+Grand Coulee,6
+Napavine,6
+Wilbur,6
+Tokeland,6
+South Cle Elum,5
+Cowiche,5
+Toutle,5
+Okanogan,5
+Skamokawa,5
+Granger,5
+Thorp,5
+Carbonado,5
+Touchet,5
+Las Vegas,5
+Garfield,5
+Salkum,5
+Evans,5
+San Jose,5
+Colorado Springs,5
+Mesa,5
+Curtis,5
+Mica,5
+Oceanside,4
+Lemoore,4
+San Antonio,4
+Cusick,4
+Chula Vista,4
+Sacramento,4
+Rockford,4
+Pomeroy,4
+Glenoma,4
+Lincoln,4
+Electric City,4
+Honolulu,4
+Odessa,4
+Warden,4
+Waterville,4
+Tulalip,4
+Clearlake,4
+Coulee Dam,4
+Ford,4
+Randle,4
+Phoenix,3
+Lopez Is,3
+Charleston Afb,3
+Cinebar,3
+Sekiu,3
+Springdale,3
+Marlin,3
+Seven Bays,3
+Los Angeles,3
+Portland,3
+Copalis Crossing,3
+Baring,3
+Spring Lake,3
+Clayton,3
+Moclips,3
+Washington,3
+El Paso,3
+South Bend,3
+Tekoa,3
+Lind,3
+Nahcotta,3
+Libertyville,3
+Wilkeson,3
+Usk,3
+Amanda Park,3
+Chinook,3
+Riverside,3
+Murdock,3
+Index,3
+Edwall,3
+Henrico,3
+Buena Park,3
+Wahkiacus,2
+Springfield,2
+Omaha,2
+Marblemount,2
+Hunters,2
+Aldie,2
+Cupertino,2
+Fayetteville,2
+Kensington,2
+Quinault,2
+Roosevelt,2
+Chesapeake,2
+Seaside,2
+Kapowsin,2
+Platte City,2
+Santa Clara,2
+Englewood,2
+Mansfield,2
+Irvine,2
+Uniontown,2
+Lakeview,2
+Madison,2
+Rockport,2
+Pawcatuck,2
+Williamsburg,2
+Centerville,2
+Harrington,2
+Silver Spring,2
+Tampa,2
+Fort Bragg,2
+Stafford,2
+Longmont,2
+Corpus Christi,2
+Shreveport,2
+Taholah,2
+St John,2
+Chesapeake Beach,2
+Salem,2
+Grays River,2
+Raeford,2
+Little Rock,2
+Charlottesville,2
+Lamont,2
+Travis Afb,2
+Norfolk,2
+Coronado,2
+Waldron,2
+Endicott,2
+Gaithersburg,2
+Berkeley,2
+Upper Marlboro,2
+Satsop,2
+Cougar,2
+Colton,2
+Odenton,2
+Deer Meadows,2
+Belle Chasse,2
+Bay Center,2
+Portsmouth,2
+Lumberton,2
+Artondale,2
+Wichita Falls,2
+Bridgeport Bar,2
+South Prairie,2
+Vacaville,2
+Frances,2
+Watertown,2
+Salt Lake City,2
+Burke,2
+White Swan,2
+Elbe,2
+Fort George G Meade,2
+Hanover,1
+Tempe,1
+Rich,1
+Alderdale,1
+Adairsville,1
+Pittsburg,1
+Moyock,1
+Lyman,1
+Mccutcheon Field,1
+Palo Alto,1
+Hatton,1
+Kenn,1
+Latah,1
+Home,1
+Reseda,1
+Eagle River,1
+Kailua,1
+Scottsdale,1
+Oakesdale,1
+Trinidad,1
+Beaver,1
+Stratford,1
+Pe Ell,1
+Ventura,1
+Philadelphia,1
+Felts Mills,1
+Smiths Station,1
+Wildomar,1
+Tracy,1
+Pros,1
+Chandler,1
+Burr Ridge,1
+Palisades,1
+Ridgecrest,1
+Kekaha,1
+Holden Village,1
+Sprague,1
+Creston,1
+Bucoda,1
+San Rafael,1
+Medford,1
+Santa Rosa,1
+Santa Cruz,1
+Dickinson,1
+Fairborn,1
+Bridgeport,1
+Conyers,1
+Tumtum,1
+Rosamond,1
+Princeton,1
+Joint Base Mdl,1
+Aurora,1
+Rayville,1
+Okatie,1
+Methow,1
+La Vernia,1
+Nespelem,1
+El Cajon,1
+Vienna,1
+Plano,1
+Chapel Hill,1
+Goshen,1
+Fort Irwin,1
+Ewa Beach,1
+Ann Arbor,1
+Huntington Beach,1
+Austin,1
+Arlington Heights,1
+Gambrills,1
+Bell Hill,1
+Belleville,1
+Naples,1
+Winter Park,1
+Port Hueneme,1
+Lithia,1
+Newport News,1
+Hobart,1
+Fort Washington,1
+Gilbert,1
+Sheridan,1
+Hartline,1
+Lansing,1
+Dryden,1
+Plymouth,1
+Orchards,1
+McCleary,1
+Chicago,1
+Hanahan,1
+Aberdeen Proving Ground,1
+Maryhill,1
+Moraga,1
+Herndon,1
+Elizabethtown,1
+Silver Lake,1
+Newark,1
+Middletown,1
+Biloxi,1
+Addy,1
+Lompoc,1
+Weatherford,1
+Southern Pines,1
+Bedford,1
+Pella,1
+Southlake,1
+Deer Harbor,1
+Vantage,1
+Chevy Chase,1
+Indio,1
+Lexington Park,1
+Worley,1
+Round Rock,1
+Clallam Bay,1
+Mountain Home Afb,1
+Westminster,1
+San Clemente,1
+Pelham,1
+Carlisle,1
+Santa Ana,1
+Peyton,1
+Mystic,1
+Walla Walla Co,1
+Haddonfield,1
+Fort Knox,1
+Malott,1
+Chelmsford,1
+Newbury Park,1
+Benicia,1
+Pasc,1
+Elmer City,1
+Old Lyme,1
+Timnath,1
+Hughesville,1
+Bloomfield,1
+Staten Island,1
+Wichita,1
+Lebam,1
+Frederick,1
+Fredericksburg,1
+Orcas,1
+Annapolis,1
+Augusta,1
+Potomac,1
+Bethesda,1
+Kihei,1
+Menifee,1
+Ione,1
+Enid,1
+Waverly,1
+Hopkins,1
+Keller,1
+Saint Louis,1
+Suffolk,1
+Melbourne,1
+Hamilton,1
+Startup,1
+Highland Park,1
+Leesville,1
+Billings,1
+Prosper,1
+Glenwood,1
+Cathedral City,1
+Sarasota,1
+Arnold,1
+Dover,1
+Gifford,1
+Gatesville,1
+Lincoln City,1
+Hanscom Afb,1
+Minneapolis,1
+Mobile,1
+Alhambra,1
+Suwanee,1
+Gardena,1
+Inchelium,1
+Wishram,1
+Fremont,1
+Corvallis,1
+Waldorf,1
+Slidell,1
+Greenfield Center,1
+South Lake Tahoe,1
+Saint Jacob,1
+Alpharetta,1
+Monterey,1
+Champaign,1
+Evanston,1
+Incorporated,1
+Copalis Beach,1
+Torrance,1
+Rosburg,1
+Skokie,1
+Cincinnati,1
+Camarillo,1
+Danville,1
+Kailua Kona,1
+Andrews Air Force Base,1
+Mechanicsburg,1
+Miami,1
+Ellicott City,1
+Alameda,1
+Killeen,1
+Lacrosse,1
+Wellpinit,1
+Midway City,1
+Waterford,1
+Laughlin,1
+Washtucna,1
+Summerville,1
+Saratoga Springs,1
+Decatur,1
+Pensacola,1
+Twentynine Palms,1
+Warner Robins,1
+Keedysville,1
+Sanford,1
+Roseville,1
+Eugene,1
+Edgewater,1
+Klickitat,1
+Leander,1
+Anthem,1
+Fort Wayne,1
+Apple Valley,1
+,0
