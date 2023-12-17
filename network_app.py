@@ -3,7 +3,7 @@ import pyspark.sql.functions as F
 from pyspark.sql.types import *
 
 spark = SparkSession.builder.appName('Network APP').getOrCreate()
-
+#Add comment
 # Read the text file
 network_activity_dpi_protocol_df = spark.read.csv("/root/ec_usecase/NETWORK_ACTIVITY_DPI_PROTOCOL.csv",sep=';', header=True, inferSchema=True)
 
